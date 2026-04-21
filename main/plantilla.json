@@ -1,1 +1,26 @@
-
+[
+  {
+    "nombre": "Lamine Yamal",
+    "dorsal": 19,
+    "posicion": "Extremo",
+    "nacionalidad": "España",
+    "edad": 18,
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Lamine_Yamal_2024.jpg"
+  },
+  {
+    "nombre": "Pedri",
+    "dorsal": 8,
+    "posicion": "Mediocampista",
+    "nacionalidad": "España",
+    "edad": 21,
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Pedri_2022.jpg"
+  },
+  {
+    "nombre": "Robert Lewandowski",
+    "dorsal": 9,
+    "posicion": "Delantero",
+    "nacionalidad": "Polonia",
+    "edad": 35,
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Robert_Lewandowski_2022.jpg"
+  }
+]
