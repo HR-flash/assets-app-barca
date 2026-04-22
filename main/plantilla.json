@@ -1,26 +1,186 @@
 [
   {
     "nombre": "Lamine Yamal",
-    "dorsal": 19,
-    "posicion": "Extremo",
+    "dorsal": 10,
+    "posicion": "Delantero",
     "nacionalidad": "España",
     "edad": 18,
-    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Lamine_Yamal_2024.jpg"
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/lamine.jpg"
+  },
+  {
+    "nombre": "Lewandowski",
+    "dorsal": 9,
+    "posicion": "Delantero",
+    "nacionalidad": "Polonia",
+    "edad": 37,
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/lewan.jpg"
+  },
+  {
+    "nombre": "Raphinha",
+    "dorsal": 11,
+    "posicion": "Delantero",
+    "nacionalidad": "Brasil",
+    "edad": 29,
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/raphina.jpg"
+  },
+  {
+    "nombre": "Marcus Rashford",
+    "dorsal": 14,
+    "posicion": "Delantero",
+    "nacionalidad": "Inglaterra",
+    "edad": 28,
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/rashford.jpg"
+  },
+  {
+    "nombre": "Roony Bardghji",
+    "dorsal": 19,
+    "posicion": "Delantero",
+    "nacionalidad": "Suecia",
+    "edad": 20,
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/roony.jpg"
+  },
+  {
+    "nombre": "Ferran Torres",
+    "dorsal": 7,
+    "posicion": "Delantero",
+    "nacionalidad": "España",
+    "edad": 26,
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/ferran.jpg"
   },
   {
     "nombre": "Pedri",
     "dorsal": 8,
-    "posicion": "Mediocampista",
+    "posicion": "Medio",
     "nacionalidad": "España",
-    "edad": 21,
-    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Pedri_2022.jpg"
+    "edad": 23,
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/pedri.jpg"
   },
   {
-    "nombre": "Robert Lewandowski",
-    "dorsal": 9,
-    "posicion": "Delantero",
+    "nombre": "Frenkie de Jong",
+    "dorsal": 21,
+    "posicion": "Medio",
+    "nacionalidad": "Países Bajos",
+    "edad": 28,
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/frenkie.jpg"
+  },
+  {
+    "nombre": "Fermín López",
+    "dorsal": 16,
+    "posicion": "Medio",
+    "nacionalidad": "España",
+    "edad": 22,
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/fermin.jpg"
+  },
+  {
+    "nombre": "Gavi",
+    "dorsal": 6,
+    "posicion": "Medio",
+    "nacionalidad": "España",
+    "edad": 21,
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/gavi.jpg"
+  },
+  {
+    "nombre": "Dani Olmo",
+    "dorsal": 20,
+    "posicion": "Medio",
+    "nacionalidad": "España",
+    "edad": 27,
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/olmo.jpg"
+  },
+  {
+    "nombre": "Marc Bernal",
+    "dorsal": 22,
+    "posicion": "Medio",
+    "nacionalidad": "España",
+    "edad": 18,
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/bernal.jpg"
+  },
+  {
+    "nombre": "Marc Casadó",
+    "dorsal": 17,
+    "posicion": "Medio",
+    "nacionalidad": "España",
+    "edad": 22,
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/marc.png"
+  },
+  {
+    "nombre": "Pau Cubarsí",
+    "dorsal": 5,
+    "posicion": "Defensa",
+    "nacionalidad": "España",
+    "edad": 19,
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/cubarsi.jpg"
+  },
+  {
+    "nombre": "Eric García",
+    "dorsal": 24,
+    "posicion": "Defensa",
+    "nacionalidad": "España",
+    "edad": 25,
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/eric.jpg"
+  },
+  {
+    "nombre": "Jules Koundé",
+    "dorsal": 23,
+    "posicion": "Defensa",
+    "nacionalidad": "Francia",
+    "edad": 27,
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/kounde.jpg"
+  },
+  {
+    "nombre": "Gerard Martín",
+    "dorsal": 18,
+    "posicion": "Defensa",
+    "nacionalidad": "España",
+    "edad": 24,
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/martin.jpg"
+  },
+  {
+    "nombre": "João Cancelo",
+    "dorsal": 2,
+    "posicion": "Defensa",
+    "nacionalidad": "Portugal",
+    "edad": 31,
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/cancelo.jpg"
+  },
+  {
+    "nombre": "Alejandro Balde",
+    "dorsal": 3,
+    "posicion": "Defensa",
+    "nacionalidad": "España",
+    "edad": 22,
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/balde.jpg"
+  },
+  {
+    "nombre": "Ronald Araújo",
+    "dorsal": 4,
+    "posicion": "Defensa",
+    "nacionalidad": "Uruguay",
+    "edad": 27,
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/araujo.jpg"
+  },
+  {
+    "nombre": "Christensen",
+    "dorsal": 15,
+    "posicion": "Defensa",
+    "nacionalidad": "Dinamarca",
+    "edad": 29,
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/andreas.jpg"
+  },
+  {
+    "nombre": "Joan García",
+    "dorsal": 13,
+    "posicion": "Portero",
+    "nacionalidad": "España",
+    "edad": 24,
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/joan.jpg"
+  },
+  {
+    "nombre": "Wojciech Szczęsny",
+    "dorsal": 25,
+    "posicion": "Portero",
     "nacionalidad": "Polonia",
     "edad": 35,
-    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Robert_Lewandowski_2022.jpg"
+    "imagenUrl": "https://raw.githubusercontent.com/ZayasDaniel04/assets-app-barca/main/szczesny.jpg"
   }
 ]
